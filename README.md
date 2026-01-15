@@ -1,3 +1,4 @@
+
 ## Mouse-GEM Flux Balance Analysis Project
 
 This project presents a comprehensive constraint-based analysis of a genome-scale metabolic model (GEM) of Mus musculus using Flux Balance Analysis (FBA). The Mouse-GEM model is used to explore mammalian metabolic behaviour at a system level, focusing on metabolic network topology, flux distributions, environmental sensitivity, and gene essentiality.
@@ -89,3 +90,5 @@ Note: All analyses are documented and reproducible via the Jupyter notebooks pro
 
 ## References
 Key references related to Flux Balance Analysis, GEMs, and Mouse-GEM are provided in the accompanying report
+
+
