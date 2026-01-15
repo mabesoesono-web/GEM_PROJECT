@@ -1,4 +1,7 @@
 gitignore
 
 #Outut
-outputs/
+outputs/Appendix_B_Exchange_Reactions.csv
+outputs/Appendix_C_Active_Reactions.csv
+outputs/Appendix_D_Single_Gene_Deletion_Raw.csv
+outputs/Appendix_E_Uptake_Blocking.csv

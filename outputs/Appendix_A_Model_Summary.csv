@@ -1,0 +1,8 @@
+,Value
+Organism,Mus musculus
+Model version,Mouse-GEM v1.8.0
+Reactions,12987
+Metabolites,8454
+Genes,2846
+Compartments,"Cytosol, Extracellular, Lysosome, Endoplasmic reticulum, Mitochondria, Peroxisome, Golgi apparatus, Nucleus, Inner mitochondria"
+Objective reaction,1.0*MAR00021 - 1.0*MAR00021_reverse_97974
